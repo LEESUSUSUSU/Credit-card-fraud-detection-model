@@ -34,7 +34,7 @@
   <br>불균형 데이터: 사기보다 정상 거래가 많음
 </p>
 - 상관 관계 행렬을 통해 변수 간의 관계를 분석.
-- PCA를 이용한 클러스터링으로 사기 거래와 정상 거래의 분포를 시각화.
+
 
 <p align="center">
   <img width="300" height="300" alt="클러스터링" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/2fe15bf1-3504-4f18-93a7-fba49ea24c64">
