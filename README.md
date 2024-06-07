@@ -32,8 +32,10 @@
 ## 데이터 설명
 ### 유럽 데이터
 - 불균형 데이터: 사기보다 정상 거래가 많음.
-- ![__results___19_1](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/e0d9ba6e-bbd8-4a61-9a05-221fa1627f33)
-
+<p align="center">
+  <img width="243" height="243" alt="불균형 데이터" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/e0d9ba6e-bbd8-4a61-9a05-221fa1627f33">
+  <br>불균형 데이터: 사기보다 정상 거래가 많음
+</p>
 - 상관 관계 행렬을 통해 변수 간의 관계를 분석.
 - PCA를 이용한 클러스터링으로 사기 거래와 정상 거래의 분포를 시각화.
 
