@@ -42,14 +42,20 @@
 ### 한국 vs 유럽 데이터
 - 한국과 유럽 데이터의 주요 변수 비교.
 - 시간과 관련된 데이터 분석.
-<p align="center">
-  <img width="243" height="243" alt="스크린샷 2024-05-02 오후 7 44 44" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/4005792b-4d01-4a99-82ca-0d4a330d0ca4">
-  <img width="243" height="243" alt="스크린샷 2024-05-02 오후 7 51 46" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/9c02a384-7ca9-4ec2-83d3-91ce2c062ee3">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="243" height="243" alt="스크린샷 2024-05-02 오후 7 44 44" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/4005792b-4d01-4a99-82ca-0d4a330d0ca4">
+      <br>한국
+    </td>
+    <td align="center">
+      <img width="243" height="243" alt="스크린샷 2024-05-02 오후 7 51 46" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/9c02a384-7ca9-4ec2-83d3-91ce2c062ee3">
+      <br>유럽
+    </td>
+  </tr>
+</table>
 
 **시간과 연관성이 높은 컬럼**
-- 한국
-- 유럽
 - 클러스터링을 통해 거래 패턴 분석.
 
 ![한국 vs 유럽 데이터 설명]
