@@ -29,7 +29,6 @@
 
 ## 데이터 설명
 ### 유럽 데이터
-- 불균형 데이터: 사기보다 정상 거래가 많음.
 <p align="center">
   <img width="300" height="300" alt="불균형 데이터" src="https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/e0d9ba6e-bbd8-4a61-9a05-221fa1627f33">
   <br>불균형 데이터: 사기보다 정상 거래가 많음
