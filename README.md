@@ -37,6 +37,10 @@
   <br>불균형 데이터: 사기보다 정상 거래가 많음
 </p>
 - 상관 관계 행렬을 통해 변수 간의 관계를 분석.
+
+![클러스터링](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/2fe15bf1-3504-4f18-93a7-fba49ea24c64)
+
+
 - PCA를 이용한 클러스터링으로 사기 거래와 정상 거래의 분포를 시각화.
 
 
@@ -60,22 +64,31 @@
 - 클러스터링을 통해 거래 패턴 분석.
 
 
+
 ## 모델 선택
 - **Logistic Regression**: AUC 0.95
 - **CNN**: AUC 0.98
 - 두 모델 모두 높은 AUC 점수를 보여 사기 탐지에 유용함.
 
-![모델 선택]
+- ![009](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/dd424b27-1ca2-41fc-8d67-c4e67b33fb46)
+
 
 ## 설계
 - 모델의 성능 평가 결과 비교.
 - 정규화를 통해 모델 성능 향상 시도.
+
+  ![011](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/94a914b7-9e52-4bb9-aef4-0a40b1c95f2d)
+![012](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/0c84d2d8-2fd7-4ca3-978f-5eeff0c5af39)
+![013](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/516f28ea-c0b1-47ab-84a9-fd9824c98aa3)
+![014](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/7b8f7f01-78d8-439f-9e62-cf2672599be3)
 
 ![설계]
 
 ## 모델 개선 시도
 - **SMOTE**: Synthetic Minority Over-sampling Technique을 이용해 불균형 데이터 문제 해결.
 - **NearMiss**: 언더 샘플링 기법을 이용해 데이터 균형 맞추기.
+
+  ![016](https://github.com/LEESUSUSUSU/Credit-card-fraud-detection-model/assets/129818934/31a57b95-9246-4b7e-b46a-1420587eeeb5)
 
 ![모델 개선 시도]
 
